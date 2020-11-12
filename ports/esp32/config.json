@@ -1,0 +1,2 @@
+{"apinfo": {"name": "ESP-AP", "server_ip": "192.168.4.1", "server_port": 9000}, "appstore":{"app_url":"http://192.168.31.74:5005/","list_url": "http://192.168.31.74:5005/iot/app/list/","store_dir":"/appstore/","myapp_dir":"/app/"}, "alarm": {"sec": 0, "day": 24, "hour": 8, "on_off": "on", "year": 2020, "mon": 12, "min": 0}, "essid": "Tenda_50E7E8", "weatherurl": "http://192.168.31.74:5005/iot/weather", "passwd": "123456789"}
+
